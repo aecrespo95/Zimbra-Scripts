@@ -1,6 +1,6 @@
 #!/bin/bash
 ##### THIS FILE MUST BE RUN AS ZIMBRA USER / ESTE ARCHIVO SOLO DEBE SER EJECUTADO COMO USUARIO ZIMBRA #########
-DOMAIN="@instec.cu" #Put your domain here / Ponga su dominio aquí
+DOMAIN="@domain.com" #Put your domain here / Ponga su dominio aquí
 LOGS="/var/log" #Put yout zimbra logs path here / Ponga su ruta de registros de zimbra aquí
 
 
